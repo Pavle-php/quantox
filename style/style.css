@@ -1,0 +1,10 @@
+.signup {
+	margin: 0 auto;
+
+	border: 1px solid;
+	padding: 20px;
+	width: 350px;
+}
+#naslov {
+	text-align: center;
+}
